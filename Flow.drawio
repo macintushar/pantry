@@ -1,0 +1,79 @@
+<mxfile host="65bd71144e">
+    <diagram id="nom2mTP8OiPOj-_EwHbt" name="Page-1">
+        <mxGraphModel dx="1024" dy="667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="kvZoaaPGWTIERhB6m0ON-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="kvZoaaPGWTIERhB6m0ON-1" target="kvZoaaPGWTIERhB6m0ON-4" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="kvZoaaPGWTIERhB6m0ON-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="kvZoaaPGWTIERhB6m0ON-1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="250" y="180" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="kvZoaaPGWTIERhB6m0ON-1" value="Login" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="370" y="150" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="kvZoaaPGWTIERhB6m0ON-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="kvZoaaPGWTIERhB6m0ON-4" target="kvZoaaPGWTIERhB6m0ON-14" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" style="edgeStyle=none;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kvZoaaPGWTIERhB6m0ON-4" target="kvZoaaPGWTIERhB6m0ON-17">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="730" y="480" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="570" y="320"/>
+                            <mxPoint x="570" y="480"/>
+                            <mxPoint x="700" y="480"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="kvZoaaPGWTIERhB6m0ON-4" value="Main&lt;br&gt;- All Items&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&#9;&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;-Delete&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&#9;&lt;/span&gt;-Edit&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&#9;&lt;/span&gt;-Add&lt;br&gt;-To buy&lt;br&gt;&lt;br&gt;(/home)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="350" y="290" width="160" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="kvZoaaPGWTIERhB6m0ON-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.012;entryY=0.574;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="kvZoaaPGWTIERhB6m0ON-5" target="kvZoaaPGWTIERhB6m0ON-4" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="180" y="350" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="180" y="347"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="kvZoaaPGWTIERhB6m0ON-5" value="Sign Up&lt;br&gt;(/sign-up)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="120" y="150" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="kvZoaaPGWTIERhB6m0ON-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="kvZoaaPGWTIERhB6m0ON-11" target="kvZoaaPGWTIERhB6m0ON-1" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="kvZoaaPGWTIERhB6m0ON-11" value="Start&lt;br&gt;(https://website.com/)" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="365" y="40" width="130" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" style="edgeStyle=none;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="kvZoaaPGWTIERhB6m0ON-4">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="410" y="540" as="targetPoint"/>
+                        <mxPoint x="730" y="420" as="sourcePoint"/>
+                        <Array as="points">
+                            <mxPoint x="730" y="450"/>
+                            <mxPoint x="470" y="450"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="kvZoaaPGWTIERhB6m0ON-14" value="Add an item&lt;br&gt;-Name&lt;br&gt;-Total Quantity&lt;br&gt;-Consumption&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&#9;&lt;/span&gt;-Time / when&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&#9;&lt;span style=&quot;white-space: pre&quot;&gt;&#9;&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&#9;&lt;/span&gt; &lt;/span&gt;&amp;nbsp; -Quantity cons. / how much&lt;br&gt;&lt;br&gt;(/add-item)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="610" y="285" width="240" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" style="edgeStyle=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="kvZoaaPGWTIERhB6m0ON-17" target="kvZoaaPGWTIERhB6m0ON-4">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="320" y="680" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="700" y="680"/>
+                            <mxPoint x="430" y="680"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="kvZoaaPGWTIERhB6m0ON-17" value="Edit an item&lt;br&gt;-Name&lt;br&gt;-Total Quantity&lt;br&gt;-Consumption&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&#9;&lt;/span&gt;-Time / when&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&#9;&lt;span style=&quot;white-space: pre&quot;&gt;&#9;&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&#9;&lt;/span&gt; &lt;/span&gt;&amp;nbsp; -Quantity cons. / how much&lt;br&gt;&lt;br&gt;(/edit-item/{item-code})" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="580" y="500" width="240" height="130" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
